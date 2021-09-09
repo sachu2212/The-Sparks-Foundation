@@ -11,3 +11,6 @@ _What will be predicted score if a student studies for 9.25 hrs/ day?_
 
 # Task-2: Prediction using Unsupervised ML.
 _Worked with iris dataset: https://bit.ly/3kXTdox_
+
+# Task-3: Exploratory Data Analysis.
+_Worked with SampleSuperstore dataset: https://bit.ly/3i4rbWl_
