@@ -14,3 +14,6 @@ _Worked with iris dataset: https://bit.ly/3kXTdox_
 
 # Task-3: Exploratory Data Analysis.
 _Worked with SampleSuperstore dataset: https://bit.ly/3i4rbWl_
+
+# Task-4: Exploratory Data Analysis - Terrorism dataset.
+_Worked with Terrorism dataset: https://bit.ly/2TK5Xn5_
