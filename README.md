@@ -17,3 +17,6 @@ _Worked with SampleSuperstore dataset: https://bit.ly/3i4rbWl_
 
 # Task-4: Exploratory Data Analysis - Terrorism dataset.
 _Worked with Terrorism dataset: https://bit.ly/2TK5Xn5_
+
+# Task-5: Exploratory Data Analysis - IPL dataset.
+_Worked with Terrorism dataset: https://bit.ly/3EEI9HF_
